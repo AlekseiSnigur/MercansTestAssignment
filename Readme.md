@@ -9,9 +9,10 @@ Project properties:
 <rest-assured>5.4.0</rest-assured>
 
 How to run:
-1. Open Maven -> Lifecycle -> Clean
-2. Run Tests in LoginAndLogout class
-3. Result will be in allure-results folder
+1. Clone project to Your device
+2. Open Maven -> Lifecycle -> Clean
+3. Run Tests in LoginAndLogout class
+4. Result will be in allure-results folder
 
 
 | N | Test Case                              | Expected result       | Status |
